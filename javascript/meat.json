@@ -1,0 +1,7 @@
+
+
+const meatPrices = {
+    "Ham": 1.50,
+    "Turkey": 1.75,
+    "noMeat": 0.00,
+}
